@@ -10,7 +10,7 @@ PowerPoint and PDF with similar description of what follows below in the Readme 
 March Madness Prediction using R Studio
 
 Created by Erick Calzadilla and Clayton Ragsdale
-![](March Madness Images/Bracket.jpg)
+![](March%20Madness%20Images/Bracket.jpg)
 
 # What is March Madness?
 

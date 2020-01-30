@@ -58,6 +58,7 @@ To get a highly successful model the decision to use Random Forrest algorithm fo
  Season averages of 2015 instead of postgame data used to predict outcome of tournament games.
  
  Expected a higher error rate from doing since we are now feeding the model average season data instead of post game data.
+ 
  ![](March%20Madness%20Images/Averages.png)
  
  ## By Round Model

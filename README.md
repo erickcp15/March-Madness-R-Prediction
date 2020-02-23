@@ -54,8 +54,6 @@ To get a highly successful model the decision to use Random Forrest algorithm fo
  
  Error rate found to be 10.2% on training data and 8.53% on testing data.
  
- ![](March%20Madness%20Images/preview.pdf)
- 
  ## Averages
  Tested the 2015 tournament teams based on their averages.
  
@@ -65,7 +63,6 @@ To get a highly successful model the decision to use Random Forrest algorithm fo
  
  ![](March%20Madness%20Images/Averages.png)
  
- Test
  
  ## By Round Model
  In this model each round was run separately and does not include wins from previous rounds.
@@ -73,6 +70,8 @@ To get a highly successful model the decision to use Random Forrest algorithm fo
  Even if a game in the previous round was incorrect, the next round is reset with all correct winners.
  
  Allowed model to perform better than it would on the traditional bracket.
+ 
+  ![](March%20Madness%20Images/Rounnd.png)
  
  ### Results
 65.67% correct prediction.
@@ -89,6 +88,8 @@ Kept single game elimination process.
 Filled out bracket entirely even if the previous winners are incorrectly chosen.
 
 Assumption: error rate will be greater than by Round bracket since games are conditional upon previous rounds.
+
+![](March%20Madness%20Images/trad.png)
 
 ### Results
 51.2% correct prediction.

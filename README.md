@@ -50,7 +50,11 @@ To get a highly successful model the decision to use Random Forrest algorithm fo
  ## Training and Testing
  Decision to split data half and half for training and testing.
  
+ ![](March%20Madness%20Images/error%20rate.png)
+ 
  Error rate found to be 10.2% on training data and 8.53% on testing data.
+ 
+ ![](March%20Madness%20Images/preview.pdf)
  
  ## Averages
  Tested the 2015 tournament teams based on their averages.
@@ -60,6 +64,8 @@ To get a highly successful model the decision to use Random Forrest algorithm fo
  Expected a higher error rate from doing since we are now feeding the model average season data instead of post game data.
  
  ![](March%20Madness%20Images/Averages.png)
+ 
+ Test
  
  ## By Round Model
  In this model each round was run separately and does not include wins from previous rounds.
